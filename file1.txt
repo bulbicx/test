@@ -1,2 +1,4 @@
-hello from file 1
+hello from file
 modified now from branch 2
+
+changes to file 1 from branch both now
