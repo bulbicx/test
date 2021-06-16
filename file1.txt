@@ -1,1 +1,2 @@
 hello from file 1
+modified now from branch 2
