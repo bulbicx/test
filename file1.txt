@@ -2,3 +2,8 @@ hello from file
 modified now from branch 2
 
 changes to file 1 from branch both now
+
+hello from file 1
+changes to file 1 from branch other
+last change
+
